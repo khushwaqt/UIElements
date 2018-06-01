@@ -15,8 +15,8 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.khushwaqt:MonthYearPicker:1.1.1'
-	}
+	        implementation 'com.github.khushwaqt:UIElements:0.0.1'
+		}
 # Maven
 
 
