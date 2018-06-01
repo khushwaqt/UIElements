@@ -28,11 +28,12 @@ Step 2. Add the dependency
 	</repositories>
 Step 2. Add the dependency
 
-<dependency>
+	<dependency>
 	    <groupId>com.github.khushwaqt</groupId>
 	    <artifactId>UIElements</artifactId>
 	    <version>0.0.1</version>
 	</dependency>
+
   
   # Usage
   
